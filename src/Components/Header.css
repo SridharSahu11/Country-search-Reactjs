@@ -1,0 +1,20 @@
+.header_container{
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0;
+}
+.header_container h1{
+    color: #ffa500;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+.header_container h3{
+    padding-top: 10px;
+    font-size:30px;
+    font-weight: 700;
+    color: #55595e;
+}
